@@ -1,0 +1,40 @@
+Exercise 5-2: Velocity in the Earth-fixed frame
+
+Date
+
+ 1999/03/04  00:00:00.000 GPS
+ 1999/03/03  23:59:47.000 UTC
+ 1999/03/03  23:59:47.649 UT1
+ 1999/03/04  00:00:51.184 TT 
+
+WGS84 (G873) State vector:
+
+  Position          19440.954   16881.609   -6777.115  [km]
+  Velocity          -0.811183   -0.257380   -3.068951  [km/s]
+
+ICRS-ITRS transformation
+
+ -0.94707414 +0.32101491 -0.00008425
+ -0.32101491 -0.94707414 -0.00006371
+ -0.00010024 -0.00003330 +0.99999999
+
+Derivative of ICRS-ITRS transformation [10^(-4)/s]
+
+ -0.23408779 -0.69061744 -0.00004561
+ +0.69061743 -0.23408779 +0.00006167
+ +0.00000089 -0.00000005 +0.00000000
+
+ICRS State vector:
+
+  Position         -23830.593   -9747.074   -6779.829  [km]
+  Velocity          +1.561964   -1.754346   -3.068851  [km/s]
+
+Orbital elements:
+
+  Semimajor axis   +26561.013 km
+  Eccentricity     +0.0070606
+  Inclination         +56.338 deg
+  RA ascend. node     +12.146 deg
+  Arg. of perigee     +87.619 deg
+  Mean anomaly       +109.435 deg
+

@@ -1,0 +1,15 @@
+Exercise 2-1: Orbit raising using Hohmann transfer
+
+ Initial altitude     h_1        750.00 km
+ Final   altitude     h_2        775.00 km
+ Circular velocity    v_1       7477.92 m/s
+ Circular velocity    v_2       7464.84 m/s
+ Difference                       13.08 m/s
+
+ Transfer orbit sma   a_t       7140.64 km
+ Pericenter velocity  v_p       7484.46 m/s
+ Apocenter  velocity  v_a       7458.31 m/s
+ Difference           v_p-v_1      6.54 m/s
+ Difference           v_2-v_a      6.54 m/s
+ Total velocity diff.             13.08 m/s
+

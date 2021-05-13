@@ -1,0 +1,14 @@
+Exercise 3-1: Gravity Field Computation 
+
+ Order   CPU Time [s]
+
+   2         0.02
+   4         0.03
+   6         0.04
+   8         0.05
+  10         0.08
+  12         0.08
+  14         0.10
+  16         0.12
+  18         0.13
+  20         0.16

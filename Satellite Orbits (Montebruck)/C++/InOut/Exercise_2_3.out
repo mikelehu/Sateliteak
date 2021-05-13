@@ -1,0 +1,16 @@
+Exercise 2-3: Osculating elements
+
+State vector:
+
+  Position          10000.000   40000.000   -5000.000  [km]
+  Velocity          -1.500000    1.000000   -0.100000  [km/s]
+
+Orbital elements:
+
+  Semimajor axis    25015.181 km
+  Eccentricity      0.7079772
+  Inclination           6.971 deg
+  RA ascend. node     173.290 deg
+  Arg. of perigee      91.553 deg
+  Mean anomaly        144.225 deg
+

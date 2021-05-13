@@ -1,0 +1,52 @@
+Exercise 2-5: Sunsynchronous repeat orbits
+
+  Draconic period          T_N =    0.0697674 d
+  Rate                 2pi/T_N =   5160.00000 deg/d
+  Node offset  Delta lam_Omega =    -25.11628 deg/Orbit
+
+  Iteration 0
+
+  Arg. perigee rate  omega_dot =      0.00000 deg/d
+  Perturb. mean motion   n-n_0 =      0.00000 deg/d
+  Mean motion              n_0 =   5160.00000 deg/d
+  Semimajor axis             a =     7158.747 km
+  Altitude                   h =      780.610 km
+  Inclination                i =       98.521 deg
+
+  Iteration 1
+
+  Arg. perigee rate  omega_dot =     -2.96073 deg/d
+  Perturb. mean motion   n-n_0 =     -3.10679 deg/d
+  Mean motion              n_0 =   5166.06752 deg/d
+  Semimajor axis             a =     7153.141 km
+  Altitude                   h =      775.004 km
+  Inclination                i =       98.498 deg
+
+  Iteration 2
+
+  Arg. perigee rate  omega_dot =     -2.97087 deg/d
+  Perturb. mean motion   n-n_0 =     -3.11652 deg/d
+  Mean motion              n_0 =   5166.08739 deg/d
+  Semimajor axis             a =     7153.123 km
+  Altitude                   h =      774.986 km
+  Inclination                i =       98.498 deg
+
+  Greenwich longitude of ascending node
+
+      Day 1          Day 2          Day 3    
+  Orbit   [deg]  Orbit   [deg]  Orbit   [deg] 
+    0      0.00   15    -16.74   30    -33.49
+    1    -25.12   16    -41.86   31    -58.60
+    2    -50.23   17    -66.98   32    -83.72
+    3    -75.35   18    -92.09   33   -108.84
+    4   -100.47   19   -117.21   34   -133.95
+    5   -125.58   20   -142.33   35   -159.07
+    6   -150.70   21   -167.44   36    175.81
+    7   -175.81   22    167.44   37    150.70
+    8    159.07   23    142.33   38    125.58
+    9    133.95   24    117.21   39    100.47
+   10    108.84   25     92.09   40     75.35
+   11     83.72   26     66.98   41     50.23
+   12     58.60   27     41.86   42     25.12
+   13     33.49   28     16.74   43      0.00
+   14      8.37   29     -8.37   44    -25.12

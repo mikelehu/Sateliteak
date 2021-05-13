@@ -1,0 +1,11 @@
+Exercise 5-3: Geodetic coordinates
+
+Cartesian station coordinates (WGS84) [m]
+
+ +1917032.190 +6029782.349  -801376.113
+
+Geodetic station coordinates (WGS84)
+
+ longitude +72.36312094 deg
+ latitude   -7.26654999 deg
+ height         -63.667 m

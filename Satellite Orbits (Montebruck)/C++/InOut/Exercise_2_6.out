@@ -1,0 +1,18 @@
+Exercise 2-6: Initial orbit determination
+
+Inertial positions:
+
+                                [km]        [km]        [km]
+  1999/04/02  00:30:00.000   11959.978  -16289.478   -5963.827
+  1999/04/02  03:00:00.000   39863.390  -13730.547   -4862.350
+
+Orbital elements:
+
+  Epoch (1st obs.)  1999/04/02  00:30:00.000
+  Semimajor axis    28196.776 km
+  Eccentricity      0.7679436
+  Inclination          20.315 deg
+  RA ascend. node     359.145 deg
+  Arg. of perigee     179.425 deg
+  Mean anomaly         29.236 deg
+

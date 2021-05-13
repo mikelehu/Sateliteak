@@ -1,0 +1,36 @@
+GEO Orbit Determination Error Analysis
+
+
+
+  Setup parameters:
+
+  Subsatellite longitude [deg]                   : -72.000
+  Station 1 (lon [deg], lat [deg], alt [m])      : -58.700  -34.400    0.000
+  Angles (noise & bias [deg], step [h], est.bias):   0.020    0.050    0.000  0
+  Range (noise & bias [deg], step [h], est.bias) :   2.000   20.000    0.500  0
+  Station 2 (lon [deg], lat [deg], alt [m])      : -64.600   31.600 1000.000
+  Angles (noise & bias [deg], step [h], est.bias):   0.020    0.050    0.000  0
+  Range (noise & bias [deg], step [h], est.bias) :   2.000   20.000    0.500  0
+  Tracking interval [h]                          :   6.000
+  Prediction interval [h]                        :   0.000
+
+Epoch state standard deviation (unmodelled effects ignored)
+
+  Position (xyz)       13.36    518.97     30.96 [m]
+  Velocity (xyz)     0.03788   0.00050   0.00211 [m/s]
+
+  Semi-major axis      13.50 [m]
+
+Epoch state standard deviation (including unmodelled effects)
+
+  Position (xyz)       58.68   2199.58     31.26 [m]
+  Velocity (xyz)     0.16052   0.00220   0.00214 [m/s]
+
+  Semi-major axis      57.22 [m]
+
+Position/velocity standard deviation (including unmodelled effects)
+
+                   Position                      Velocity         
+  Time    radial     tang     normal    radial     tang     normal
+   [h]      [m]       [m]       [m]      [m/s]     [m/s]     [m/s]
+   0.0      58.7    2199.6      31.3    0.1605    0.0022    0.0021
